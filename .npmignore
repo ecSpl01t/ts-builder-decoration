@@ -1,0 +1,19 @@
+.git/
+
+# for npm
+node_modules/
+npm-shrinkwrap.json
+package-lock.json
+yarn.lock
+
+# codes
+plugin/
+*.log
+*.ldjson
+
+# misc
+.vscode/
+.gitignore
+.editorconfig
+
+npm-debug.log

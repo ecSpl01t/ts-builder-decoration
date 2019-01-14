@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "noEmit": true,
+    "plugins": [
+      {
+        "name": "@vvakame/typescript-plugin-example",
+        "verbose": true,
+        "goody": "😻zz"
+      }
+    ]
+  }
+}
